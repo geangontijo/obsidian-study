@@ -69,17 +69,17 @@
 Resumo do que eu devo estudar
 
 - [ ] Ácidos Nucleicos (DNA e RNA)
-	- [ ] Composição química do DNA
-	- [ ] Composição do RNA
-	- [ ] Base nitrogenada que não pode ser encontrada no DNA
+	- [x] Composição química do DNA
+	- [x] Composição do RNA
+	- [x] Base nitrogenada que não pode ser encontrada no DNA
 	- [ ] Conceitos básicos de ácidos nucleicos
 	- [ ] Diferenças do DNA entre procariontes e eucariontes
 - [ ] Enzimas e Digestão de Proteínas
 	- [ ] Enzimas que digerem proteínas (Pepsina, Tripsina, Quimiotripsina)
 	- [ ] Suco Gástrico e Suco Pancreático
-	- [ ] Quando a enzima perde a propriedade digestiva? (Temperatura e PH)
+	- [x] Quando a enzima perde a propriedade digestiva? (Temperatura e PH)
 	- [x] Peptídeos e Oligo-peptídeos
-	- [ ] Modelos enzimáticos
+	- [x] Modelos enzimáticos
 	- [ ] Enzina sacarase
 		- [ ] Atua no duodeno, com PH próximo de 8.
 - [ ] Polissacarídeos e Carboidratos
