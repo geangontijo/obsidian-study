@@ -86,10 +86,10 @@ Resumo do que eu devo estudar
 	- [ ] Hidrólise completa da celulose
 	- [ ] Diferentes formas de hidrólise (Ácida ou enzimática)
 	- [ ] Características dos polissacarídeos
-		- [ ] Características da quitina
+		- [x] Características da quitina
 		- [ ] Estrutura da Celulose
-		- [ ] Características do amido
-		- [ ] Características do glicogênio
+		- [x] Características do amido
+		- [x] Características do glicogênio
 	- [ ] Características da glicose
 - [ ] Lipídeos e Colesterol
 	- [ ] Principais lipídeos e onde estão presentes
