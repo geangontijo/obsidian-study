@@ -78,7 +78,7 @@ Resumo do que eu devo estudar
 	- [ ] Enzimas que digerem proteínas (Pepsina, Tripsina, Quimiotripsina)
 	- [ ] Suco Gástrico e Suco Pancreático
 	- [ ] Quando a enzima perde a propriedade digestiva? (Temperatura e PH)
-	- [ ] Peptídeos e Oligo-peptídeos
+	- [x] Peptídeos e Oligo-peptídeos
 	- [ ] Modelos enzimáticos
 	- [ ] Enzina sacarase
 		- [ ] Atua no duodeno, com PH próximo de 8.
@@ -92,9 +92,9 @@ Resumo do que eu devo estudar
 		- [x] Características do glicogênio
 	- [ ] Características da glicose
 - [ ] Lipídeos e Colesterol
-	- [ ] Principais lipídeos e onde estão presentes
-	- [ ] Colesterol LDL e HDL
-	- [ ] Função dos lipídeos em organismos animais e vegetais
+	- [x] Principais lipídeos e onde estão presentes
+	- [x] Colesterol LDL e HDL
+	- [x] Função dos lipídeos em organismos animais e vegetais
 - [ ] Vitaminas e Sais Minerais
 	- [ ] Vitaminas hidrossolúveis e lipossolúveis
 	- [ ] Hipervitaminose da vitamina A
@@ -102,4 +102,4 @@ Resumo do que eu devo estudar
 - [x] Propriedades da Água
 	- [x] Ligações de hidrogênio e coesão
 	- [x] Polaridade da molécula de água e adesão
-- [ ] Propriedades das proteínas
+- [x] Propriedades das proteínas
