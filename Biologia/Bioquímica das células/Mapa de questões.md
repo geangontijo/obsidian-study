@@ -72,7 +72,7 @@ Resumo do que eu devo estudar
 	- [x] Composição química do DNA
 	- [x] Composição do RNA
 	- [x] Base nitrogenada que não pode ser encontrada no DNA
-	- [ ] Conceitos básicos de ácidos nucleicos
+	- [x] Conceitos básicos de ácidos nucleicos
 	- [ ] Diferenças do DNA entre procariontes e eucariontes
 - [ ] Enzimas e Digestão de Proteínas
 	- [ ] Enzimas que digerem proteínas (Pepsina, Tripsina, Quimiotripsina)
