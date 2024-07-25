@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "45ce067e3b2b3e36",
+        "id": "5e3aa0f37f5890cb",
         "type": "tabs",
         "children": [
           {
-            "id": "e094094e894bbc04",
+            "id": "2e9a259dc1eff76c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quimica/3. Substância e Mistura - ENEM/3.4 Curvas de Aquecimento.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7c1c1c20fa9ed02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biologia/Bioquímica das células/2.4.7 Enzimas.md",
+                "file": "Biologia/Bioquímica das células/2.4.5 Lipídios.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quimica/3. Substância e Mistura - ENEM/3.4 Curvas de Aquecimento.md",
+                "file": "Biologia/Bioquímica das células/2.4.5 Lipídios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quimica/3. Substância e Mistura - ENEM/3.4 Curvas de Aquecimento.md",
+                "file": "Biologia/Bioquímica das células/2.4.5 Lipídios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quimica/3. Substância e Mistura - ENEM/3.4 Curvas de Aquecimento.md"
+                "file": "Biologia/Bioquímica das células/2.4.5 Lipídios.md"
               }
             }
           }
@@ -159,20 +147,24 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "e094094e894bbc04",
+  "active": "3958bcacc214e5bc",
   "lastOpenFiles": [
+    "Biologia/Bioquímica das células/2.4.6 Proteínas.md",
+    "Biologia/Bioquímica das células/2.4.7 Enzimas.md",
+    "Biologia/Bioquímica das células/2.4.8 Ácidos nucleicos.md",
+    "Biologia/Bioquímica das células/2.4.5 Lipídios.md",
+    "Pasted image 20240716054733.png",
+    "Quimica/3. Substância e Mistura - ENEM/3.3 Estados Físicos.md",
+    "Quimica/3. Substância e Mistura - ENEM/3.4 Curvas de Aquecimento.md",
     "Pasted image 20240724224235.png",
     "Pasted image 20240724223447.png",
     "Pasted image 20240724223104.png",
     "Pasted image 20240724223024.png",
     "Quimica/3. Substância e Mistura - ENEM/3.3.3 Pode Cair Assim no Vestibular - O que é selar a carne.md",
-    "Quimica/3. Substância e Mistura - ENEM/3.4 Curvas de Aquecimento.md",
-    "Biologia/Bioquímica das células/2.4.7 Enzimas.md",
     "Quimica/3. Substância e Mistura - ENEM/3.3.2 Pode Cair Assim No Vestibular - O derretimento aumenta ou diminui o nível do mar.md",
     "Quimica/3. Substância e Mistura - ENEM/3.3.1 Pode Cair Assim No Vestibular - Por que uma lata estoura quando congela.md",
     "Pasted image 20240724212011.png",
     "Pasted image 20240724211958.png",
-    "Quimica/3. Substância e Mistura - ENEM/3.3 Estados Físicos.md",
     "Quimica/3. Substância e Mistura - ENEM/Mapa de questões.md",
     "Excel 2024-07-21 17.42.21.sheet.md",
     "Excel 2024-07-21 17.42.29.sheet.md",
@@ -181,13 +173,8 @@
     "Untitled",
     "Quimica",
     "Pasted image 20240715225301.png",
-    "Biologia/Bioquímica das células/2.4.6 Proteínas.md",
-    "Biologia/Bioquímica das células/2.4.5 Lipídios.md",
     "Pasted image 20240715223420 1.png",
     "Biologia/Bioquímica das células/Mapa de questões.md",
-    "Biologia/Bioquímica das células/2.4.8 Ácidos nucleicos.md",
-    "Pasted image 20240716062535.png",
-    "Pasted image 20240716061925.png",
     "Relatório de horas estudadas.md",
     "Untitled.canvas",
     "2024-07-15.md",
