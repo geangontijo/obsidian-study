@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "766e8e4c21140ff1",
+        "id": "7dbbb7b098024582",
         "type": "tabs",
         "children": [
           {
-            "id": "f817222297c0e5e1",
+            "id": "e608ca812c521517",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "588c801bef0b03aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matemática/4 Conhecimentos Algébricos-ENEM/4.7 Inequações.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matemática/4 Conhecimentos Algébricos-ENEM/4.3 Fatoração e Produtos Notáveis.md",
+                "file": "Matemática/4 Conhecimentos Algébricos-ENEM/4.7 Inequações.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matemática/4 Conhecimentos Algébricos-ENEM/4.3 Fatoração e Produtos Notáveis.md",
+                "file": "Matemática/4 Conhecimentos Algébricos-ENEM/4.7 Inequações.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matemática/4 Conhecimentos Algébricos-ENEM/4.3 Fatoração e Produtos Notáveis.md"
+                "file": "Matemática/4 Conhecimentos Algébricos-ENEM/4.7 Inequações.md"
               }
             }
           }
@@ -146,10 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f817222297c0e5e1",
+  "active": "588c801bef0b03aa",
   "lastOpenFiles": [
-    "Quimica/3. Substância e Mistura - ENEM/3.5 Materiais puros e impuros.md",
+    "Matemática/4 Conhecimentos Algébricos-ENEM/4.5 Sistemas de equações simultâneas do 1º grau.md",
+    "Matemática/4 Conhecimentos Algébricos-ENEM/4.7 Inequações.md",
+    "Matemática/4 Conhecimentos Algébricos-ENEM/4.6 Equações de segundo grau.md",
+    "Pasted image 20240801224444.png",
+    "Pasted image 20240801224416.png",
     "Matemática/4 Conhecimentos Algébricos-ENEM/4.3 Fatoração e Produtos Notáveis.md",
+    "Quimica/3. Substância e Mistura - ENEM/3.5 Materiais puros e impuros.md",
     "Matemática/4 Conhecimentos Algébricos-ENEM/4.1 Conceitos básicos.md",
     "Pasted image 20240731211129.png",
     "Pasted image 20240731204910.png",
@@ -162,7 +180,6 @@
     "Pasted image 20240730061153.png",
     "Pasted image 20240730054820.png",
     "Portugues/24 Interpretação de texto/24.1 Texto Jornalístico.md",
-    "Untitled.md",
     "Portugues/24 Interpretação de texto",
     "Portugues",
     "preamble.sty.md",
@@ -174,8 +191,6 @@
     "mhchem/hpstatement.inc/hpstatement-pt.inc.sty",
     "mhchem/hpstatement.inc/hpstatement-pl.inc.sty",
     "Quimica/3. Substância e Mistura - ENEM/Mapa de questões.md",
-    "Pasted image 20240725214819.png",
-    "Pasted image 20240725214721.png",
     "Biologia/Bioquímica das células/2.4.5 Lipídios.md",
     "Biologia/Bioquímica das células/2.4.6 Proteínas.md",
     "Biologia/Bioquímica das células/2.4.7 Enzimas.md",
