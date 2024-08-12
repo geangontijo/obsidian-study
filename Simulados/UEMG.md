@@ -11,3 +11,9 @@ O que preciso aprender/melhorar:
 	- [ ] Segunda lei da termodinâmica, o calor sempre flui do corpo mais quente para o corpo mais frio, nunca o contrário.
 	- [ ] Eletrodinâmica -> Corrente elétrica
 	- [ ] Eletromagnetismo -> Força Magnética -> Sobre partículas carregadas
+- [ ] História
+	- [ ] Idade Moderna -> Renascimento
+	- [ ] "Guerra dos Emboabas" em História do Brasil -> Período colonial -> Revoltas e conjurações -> Revoltas nativistas
+	- [ ] História geral -> Idade contemporânea -> Comuna de Paris
+	- [ ] História do Brasil -> Primeira república (1889-1930) -> Revoltas da primeira república -> Tenentismo
+	- [ ] História geral -> Idade contemporânea -> Segunda guerra mundial
