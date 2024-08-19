@@ -17,3 +17,7 @@ O que preciso aprender/melhorar:
 	- [ ] História geral -> Idade contemporânea -> Comuna de Paris
 	- [ ] História do Brasil -> Primeira república (1889-1930) -> Revoltas da primeira república -> Tenentismo
 	- [ ] História geral -> Idade contemporânea -> Segunda guerra mundial
+- [ ] Matemática
+	- [ ] Funções -> Função exponencial.
+	- [ ] Geometria Plana -> Relações métricas em triângulos retângulos (Teorema de Pitágoras).
+	- [ ] 

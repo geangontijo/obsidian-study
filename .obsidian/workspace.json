@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Simulados/UEMG.md",
+                "file": "Física/1 Introdução à Física e à cinemática/1.6 O estudo dos vetores.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Simulados/UEMG.md",
+                "file": "Física/1 Introdução à Física e à cinemática/1.6 O estudo dos vetores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Simulados/UEMG.md",
+                "file": "Física/1 Introdução à Física e à cinemática/1.6 O estudo dos vetores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Simulados/UEMG.md"
+                "file": "Física/1 Introdução à Física e à cinemática/1.6 O estudo dos vetores.md"
               }
             }
           }
@@ -146,10 +147,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19866685f9f140c6",
+  "active": "4d52fe7fdfa6743b",
   "lastOpenFiles": [
+    "Pasted image 20240815212512.png",
+    "Pasted image 20240815212028.png",
     "Untitled.md",
+    "Física/1 Introdução à Física e à cinemática/1.6 O estudo dos vetores.md",
+    "Física/1 Introdução à Física e à cinemática/Untitled",
+    "Física/1 Introdução à Física e à cinemática",
     "Simulados/UEMG.md",
+    "Física",
     "Portugues/24 Interpretação de texto/24.2 Texto literário.md",
     "Simulados",
     "Portugues/24 Interpretação de texto/24.1 Texto Jornalístico.md",
@@ -177,13 +184,9 @@
     "Pasted image 20240731204910.png",
     "Matemática/4 Conhecimentos Algébricos-ENEM",
     "Matemática",
-    "Pasted image 20240730220102.png",
     "Portugues/24 Interpretação de texto",
     "Portugues",
     "preamble.sty.md",
-    "mhchem/hpstatement.inc/hpstatement-sv.inc.sty",
-    "mhchem/hpstatement.inc/hpstatement-sl.inc.sty",
-    "mhchem/hpstatement.inc/hpstatement-sk.inc.sty",
     "Quimica/3. Substância e Mistura - ENEM/Mapa de questões.md",
     "Biologia/Bioquímica das células/2.4.5 Lipídios.md",
     "Biologia/Bioquímica das células/2.4.6 Proteínas.md",
@@ -192,8 +195,6 @@
     "Quimica/3. Substância e Mistura - ENEM/3.3 Estados Físicos.md",
     "Quimica/3. Substância e Mistura - ENEM/3.4 Curvas de Aquecimento.md",
     "Quimica/3. Substância e Mistura - ENEM/3.3.3 Pode Cair Assim no Vestibular - O que é selar a carne.md",
-    "Quimica/3. Substância e Mistura - ENEM/3.3.2 Pode Cair Assim No Vestibular - O derretimento aumenta ou diminui o nível do mar.md",
-    "Quimica/3. Substância e Mistura - ENEM/3.3.1 Pode Cair Assim No Vestibular - Por que uma lata estoura quando congela.md",
     "Untitled.canvas"
   ]
 }
