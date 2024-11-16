@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "38200fcb748ff28e",
+        "id": "25daa2898cdc0d2c",
         "type": "tabs",
         "children": [
           {
-            "id": "19866685f9f140c6",
+            "id": "9769680749e561e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física/1 Introdução à Física e à cinemática/1.6 O estudo dos vetores.md",
+                "file": "Simulados/11-13.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "11-13"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -48,13 +52,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "imis",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,11 +68,12 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física/1 Introdução à Física e à cinemática/1.6 O estudo dos vetores.md",
+                "file": "Simulados/31-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 31-10"
             }
           },
           {
@@ -103,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Física/1 Introdução à Física e à cinemática/1.6 O estudo dos vetores.md",
+                "file": "Simulados/31-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 31-10"
             }
           },
           {
@@ -117,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física/1 Introdução à Física e à cinemática/1.6 O estudo dos vetores.md"
-              }
+                "file": "Simulados/31-10.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 31-10"
             }
           }
         ]
@@ -147,15 +162,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d52fe7fdfa6743b",
+  "active": "9769680749e561e4",
   "lastOpenFiles": [
+    "Simulados/31-10.md",
+    "Simulados/11-13.md",
+    "Física.md",
+    "Simulados/11-12.md",
+    "Pasted image 20241112214412.png",
+    "tesxte.md",
+    "Untitled.md",
+    "Simulados/UEMG.md",
+    "Simulados/05-11.md",
+    "Simulados/04-11.md",
+    "Simulados/08-11.md",
+    "Simulados/07-11.md",
+    "Simulados/09-11.md",
+    "Relatório de horas estudadas.md",
+    "Pasted image 20240724223447.png",
+    "Pasted image 20240725214550.png",
+    "Pasted image 20240724223024.png",
+    "Pasted image 20240715223420.png",
+    "Pasted image 20240724211958.png",
+    "Pasted image 20240715225513.png",
+    "Simulados/29-10.md",
+    "Quimica/3. Substância e Mistura - ENEM/3.3.2 Pode Cair Assim No Vestibular - O derretimento aumenta ou diminui o nível do mar.md",
+    "Simulados/Untitled",
+    "Física/1 Introdução à Física e à cinemática/1.7 Cinemática o estudo dos movimentos.md",
+    "Física/1 Introdução à Física e à cinemática/1.6 O estudo dos vetores.md",
     "Pasted image 20240815212512.png",
     "Pasted image 20240815212028.png",
-    "Untitled.md",
-    "Física/1 Introdução à Física e à cinemática/1.6 O estudo dos vetores.md",
     "Física/1 Introdução à Física e à cinemática/Untitled",
     "Física/1 Introdução à Física e à cinemática",
-    "Simulados/UEMG.md",
     "Física",
     "Portugues/24 Interpretação de texto/24.2 Texto literário.md",
     "Simulados",
@@ -165,36 +202,14 @@
     "História/2 Antiguidade Oriental/2.2 O que há de comum entre os povos das civilizações hidráulicas.md",
     "Pasted image 20240807230754.png",
     "História/2 Antiguidade Oriental/2.4 Egito.md",
-    "Pasted image 20240807070750.png",
-    "Pasted image 20240807065831.png",
     "História/2 Antiguidade Oriental/2.3 Mesopotâmia.md",
-    "Pasted image 20240806215133.png",
-    "Pasted image 20240806215057.png",
     "Matemática/4 Conhecimentos Algébricos-ENEM/4.5 Sistemas de equações simultâneas do 1º grau.md",
     "História/2 Antiguidade Oriental",
     "História",
     "Matemática/4 Conhecimentos Algébricos-ENEM/4.6 Equações de segundo grau.md",
-    "Matemática/4 Conhecimentos Algébricos-ENEM/4.7 Inequações.md",
-    "Matemática/4 Conhecimentos Algébricos-ENEM/4.3 Fatoração e Produtos Notáveis.md",
-    "Matemática/4 Conhecimentos Algébricos-ENEM/4.1 Conceitos básicos.md",
-    "Pasted image 20240801224444.png",
-    "Pasted image 20240801224416.png",
-    "Quimica/3. Substância e Mistura - ENEM/3.5 Materiais puros e impuros.md",
-    "Pasted image 20240731211129.png",
-    "Pasted image 20240731204910.png",
     "Matemática/4 Conhecimentos Algébricos-ENEM",
     "Matemática",
     "Portugues/24 Interpretação de texto",
-    "Portugues",
-    "preamble.sty.md",
-    "Quimica/3. Substância e Mistura - ENEM/Mapa de questões.md",
-    "Biologia/Bioquímica das células/2.4.5 Lipídios.md",
-    "Biologia/Bioquímica das células/2.4.6 Proteínas.md",
-    "Biologia/Bioquímica das células/2.4.7 Enzimas.md",
-    "Biologia/Bioquímica das células/2.4.8 Ácidos nucleicos.md",
-    "Quimica/3. Substância e Mistura - ENEM/3.3 Estados Físicos.md",
-    "Quimica/3. Substância e Mistura - ENEM/3.4 Curvas de Aquecimento.md",
-    "Quimica/3. Substância e Mistura - ENEM/3.3.3 Pode Cair Assim no Vestibular - O que é selar a carne.md",
     "Untitled.canvas"
   ]
 }
